@@ -4,7 +4,7 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-PHONE_NUMBER = os.getenv('PHONE_NUMBER', '+26774959070')
+PHONE_NUMBER = os.getenv('PHONE_NUMBER', '447774862414')')
 MAX_RISK_PIPS = int(os.getenv('MAX_RISK_PIPS', '30'))
 CALLMEBOT_APIKEY = os.getenv('CALLMEBOT_APIKEY', '')
 
