@@ -1,0 +1,6 @@
+Flask
+yfinance
+ta
+apscheduler
+requests
+pandas
